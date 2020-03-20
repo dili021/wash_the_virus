@@ -1,7 +1,4 @@
-> Wash The Virus
-
-
-### Wash the virus as many times as you can during 60 seconds.
+> Wash the virus as many times as you can during 60 seconds.
 
 # Built with
 
