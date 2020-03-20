@@ -4,7 +4,7 @@ require 'gosu'
 class WhackARuby < Gosu::Window
   def initialize
     super(800, 600)
-    self.caption = 'Whack the Ruby!'
+    self.caption = 'Wash the virus!'
     @image = Gosu::Image.new('corona.png')
     @x = 200
     @y = 200
