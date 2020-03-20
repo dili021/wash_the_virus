@@ -1,8 +1,4 @@
-> Wash The Virus
 
-![screenshot](screenshot.png)
-
-### Wash the virus as many times as you can during 60 seconds.
 
 # Built with
 
