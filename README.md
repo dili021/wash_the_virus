@@ -1,3 +1,6 @@
+> Wash the virus as many times as you can during 60 seconds.
+
+![screenshot](screenshot.png)
 
 
 # Built with
