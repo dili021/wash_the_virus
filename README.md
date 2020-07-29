@@ -21,3 +21,9 @@
 # Acknowledgements
 
 - A very big thank you to Mark Sobkowitz for the [book](https://pragprog.com/book/msgpkids/learn-game-programming-with-ruby)
+
+# Future features
+
+- Multiplayer
+- Lasting scoreboard
+- Power-ups
