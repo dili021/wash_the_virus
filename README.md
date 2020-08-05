@@ -23,6 +23,14 @@
 - Install rubocop by running `gem install rubocop` in the terminal.
 - Test by running `rubocop` in the terminal.
 
+## Author
+
+#### Stefan Dili
+- [Website](https://stefan-dili.tech)
+- LinkedIn: [Stefan Dili](https://www.linkedin.com/in/stefan-dili/)
+- Twitter: [@dilistefan](https://twitter.com/dilistefan)
+- Email: stefan.dili.021@gmail.com
+
 # Acknowledgements
 
 - A very big thank you to Mark Sobkowitz for the [book](https://pragprog.com/book/msgpkids/learn-game-programming-with-ruby)
