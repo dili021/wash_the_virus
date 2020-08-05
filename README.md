@@ -5,7 +5,8 @@
 
 # Built with
 
-- Ruby, Gosu
+- Ruby
+- Gosu
 
 # Setup
 
